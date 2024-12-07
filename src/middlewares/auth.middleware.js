@@ -1,5 +1,5 @@
 import ENVIROMENT from "../config/enviroment.config.js"
-import ResponseBuilder from "../utils/builders/responseBuilder.js"
+import ResponseBuilder from "../utils/builders/ResponseBuilder.js"
 import jwt from 'jsonwebtoken'
 
 //roles_permitidos es un parametro que en caso de estar deberia ser un array de roles o en caso de no estar debe ser un array vacio
