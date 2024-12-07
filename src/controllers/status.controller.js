@@ -1,4 +1,4 @@
-import ResponseBuilder from "../utils/builders/responseBuilder.js"
+import ResponseBuilder from "../utils/builders/ResponseBuilder.js"
 
 
 const getPingController = (req, res) => 

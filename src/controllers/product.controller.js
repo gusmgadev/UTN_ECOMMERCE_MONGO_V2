@@ -1,6 +1,6 @@
 
 import ProductRepository from "../repositories/productRepository.js"
-import ResponseBuilder from "../utils/builders/responseBuilder.js"
+import ResponseBuilder from "../utils/builders/ResponseBuilder.js"
 export const getAllProductController = async (req, res) => {
     try{
 
